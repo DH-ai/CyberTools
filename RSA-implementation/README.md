@@ -11,7 +11,7 @@ RSA encryption is a public-key encryption algorithm that allows secure data tran
 
 ### 2. Encryption
 
-* Convert the message intro and integer $m$ suck that $0\lte m < n$.
+* Convert the message intro and integer $m$ suck that $0\ltq m < n$.
 * Compute the ciphertext $c=m^e\ mod\ n$
 
 ### 3. Decryption
